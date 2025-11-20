@@ -1,5 +1,7 @@
 # MusketFire — 게임인재원 1Q MiniProject
 
+스토브 데모 : https://store.onstove.com/ko/games/3679
+
 내부 SVN 서버를 사용한 프로젝트였기 때문에 아래와 같이 작업 내용을 정리함.
 
 [Day 1] 0510
